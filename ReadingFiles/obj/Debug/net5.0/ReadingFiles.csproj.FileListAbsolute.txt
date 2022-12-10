@@ -1,0 +1,16 @@
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ReadingFiles.exe
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ReadingFiles.deps.json
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ReadingFiles.runtimeconfig.json
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ReadingFiles.runtimeconfig.dev.json
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ReadingFiles.dll
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ref\ReadingFiles.dll
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\bin\Debug\net5.0\ReadingFiles.pdb
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.csproj.AssemblyReference.cache
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.AssemblyInfo.cs
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.dll
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ref\ReadingFiles.dll
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.pdb
+C:\Users\Aanchal Mittal\source\repos\ReadingFiles\obj\Debug\net5.0\ReadingFiles.genruntimeconfig.cache
